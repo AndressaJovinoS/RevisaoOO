@@ -1,0 +1,10 @@
+C:\Users\Andressa\source\repos\RevisaoOO\RevisaoOO\bin\Debug\RevisaoOO.exe.config
+C:\Users\Andressa\source\repos\RevisaoOO\RevisaoOO\bin\Debug\RevisaoOO.exe
+C:\Users\Andressa\source\repos\RevisaoOO\RevisaoOO\bin\Debug\RevisaoOO.pdb
+C:\Users\Andressa\source\repos\RevisaoOO\RevisaoOO\bin\Debug\Pagamentos.dll
+C:\Users\Andressa\source\repos\RevisaoOO\RevisaoOO\bin\Debug\Pagamentos.pdb
+C:\Users\Andressa\source\repos\RevisaoOO\RevisaoOO\obj\Debug\RevisaoOO.csprojAssemblyReference.cache
+C:\Users\Andressa\source\repos\RevisaoOO\RevisaoOO\obj\Debug\RevisaoOO.csproj.CoreCompileInputs.cache
+C:\Users\Andressa\source\repos\RevisaoOO\RevisaoOO\obj\Debug\RevisaoOO.csproj.CopyComplete
+C:\Users\Andressa\source\repos\RevisaoOO\RevisaoOO\obj\Debug\RevisaoOO.exe
+C:\Users\Andressa\source\repos\RevisaoOO\RevisaoOO\obj\Debug\RevisaoOO.pdb

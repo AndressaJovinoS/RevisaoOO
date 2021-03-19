@@ -1,0 +1,6 @@
+C:\Users\Andressa\source\repos\RevisaoOO\Pagamentos\bin\Debug\Pagamentos.dll
+C:\Users\Andressa\source\repos\RevisaoOO\Pagamentos\bin\Debug\Pagamentos.pdb
+C:\Users\Andressa\source\repos\RevisaoOO\Pagamentos\obj\Debug\Pagamentos.csprojAssemblyReference.cache
+C:\Users\Andressa\source\repos\RevisaoOO\Pagamentos\obj\Debug\Pagamentos.csproj.CoreCompileInputs.cache
+C:\Users\Andressa\source\repos\RevisaoOO\Pagamentos\obj\Debug\Pagamentos.dll
+C:\Users\Andressa\source\repos\RevisaoOO\Pagamentos\obj\Debug\Pagamentos.pdb
